@@ -1,0 +1,1 @@
+2023-06-24T10:37:24.7604457 500 : [{"timestamp":"2023-06-24T15:37:24.712+00:00","status":500,"error":"Internal Server Error","trace":"org.springframework.dao.DuplicateKeyException: PreparedStatementCallback; SQL [INSERT INTO tenmo_user... (11547 bytes)]
